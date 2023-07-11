@@ -1,0 +1,28 @@
+header{
+    background-color: rgba(229, 84, 115, 0.10);
+   
+    
+}
+  
+.banner{
+    padding: 30px 75px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    padding: 10px;
+    background-color:#E55473 ;
+    border: 0;
+    border-radius: 5px;
+}
+.banner.profile-pic{
+    width: 635px;
+    hight: 800px;
+
+}
+h1{
+    font-weight: 900;
+    font-size: 80px;
+
+}
