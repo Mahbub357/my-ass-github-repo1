@@ -189,7 +189,7 @@ h1{
  
 }
 .back-tt{
-    padding-top: 90px;
+    padding-top:60px;
     font-size: 35px;
 }
 .pl{
@@ -224,4 +224,28 @@ h1{
 }
 .ft-last{
     font-size: 35px;
+}
+.bai{
+    height: 450px;
+    background-color:rgba(5, 151, 160, 0.15) ;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-8{
+    height:300px ;
+    
+}
+.x-t{
+    font-size: 32px;
+    color:green;
+}
+.x-h{
+    border: 0;
+    height: 36px;
+    width: 300px;
+    border-radius: 5px;
+}
+.ses{
+    margin-bottom: 20px;
 }
