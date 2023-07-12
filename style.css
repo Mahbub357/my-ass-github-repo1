@@ -1,4 +1,7 @@
 /*about header*/
+*{
+    font-family: Lato;
+}
 header{
     background-color: rgba(229, 84, 115, 0.10);
    
@@ -7,7 +10,7 @@ header{
 
   
 .banner{
-    padding: 30px 120px 30px 150px;
+    padding: 30px 120px 0px 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -174,4 +177,51 @@ h1{
 }
 .d-t{
     font-size: 32px;
+}
+.back{
+    background-image: url("Flower Asset/Rectangle 9.png");
+    text-align: center;
+    margin-top: 80px;
+    height: 300px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-repeat: no-repeat;
+ 
+}
+.back-tt{
+    padding-top: 90px;
+    font-size: 35px;
+}
+.pl{
+    border: 0;
+    height: 36px;
+    width: 300px;
+    border-radius: 5px;
+}
+.back-p{
+    color:rgba(39, 39, 39, 0.60);
+    padding-bottom: 20px;
+}
+.flower{
+    color: #E55473;
+}
+.ft-m{
+    height: 300px;
+    background-color:#111010 ;
+    margin-top: 80px;
+}
+.ft-p{
+    color:rgba(255, 255, 255, 0.90);
+}
+.ft-title{
+    color:white;
+    text-align: center;
+    padding-top: 50px;
+}
+.ft-email{
+    color:#FFFFFF66;
+    font-size: 13px;
+}
+.ft-last{
+    font-size: 35px;
 }
