@@ -18,6 +18,7 @@ button{
     background-color:#E55473 ;
     border: 0;
     border-radius: 5px;
+    color:white;
 }
 .banner.profile-pic{
     width: 635px;
@@ -98,7 +99,7 @@ h1{
    
     margin-left: 150px;
     margin-right: 150px;
-    margin-top: 68px;
+    margin-top: 68px;}
 .pai{
     display: flex;
     
@@ -120,4 +121,57 @@ h1{
 }
 .sobi{
     margin-left: 200px;
+}
+
+.mai{
+    height: 500px;
+    background-color:rgba(229, 84, 115, 0.05) ;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.off{
+    color: #E55473;
+}
+
+
+.pa{
+    color: rgba(39, 39, 39, 0.60);
+}
+.img-8{
+    height:320px ;
+}
+.hot-title{
+    padding-left:370px;
+    padding-top: 150px;
+    
+    text-align: center;
+}
+.img-8{
+    padding-right: 370px;
+    padding-top: 90px;
+}
+.ins-d{
+    text-align: center;
+    margin-top: 80px;
+}
+.ins-p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.ins-im{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+    
+}
+.ins1{
+    height: 380px;
+    margin-top: 30px;
+}
+.img-tt{
+    font-size: 50px;
+}
+.d-t{
+    font-size: 32px;
 }
